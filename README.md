@@ -2,9 +2,9 @@
 
 <h1 align="center">My README <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
-<h3 align="center">I'm  Web Developer from Morocco ❤</h3>
+<h3 align="center">I'm  Full-Stack Developer from Morocco ❤</h3>
   
-A 26Y/O 🌈  Web developer🎯 from Morocco. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
+A 26Y/O 🌈  Full-Stack developer🎯 from Morocco. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
 
 
 ![age](https://img.shields.io/badge/age-24-blue)
