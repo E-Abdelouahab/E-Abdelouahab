@@ -31,7 +31,7 @@ A 26Y/O 🌈  Full-Stack developer🎯 from Morocco. I'm passionate about Full-S
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/next.png?raw=true" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/css.png?raw=true" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/html.png?raw=true" height="60" width="60">
-<img src"https://cdn.alsacreations.net/xmedia/doc/full/php-logo.png" height="60" width="60">
+<!-- <img src"https://cdn.alsacreations.net/xmedia/doc/full/php-logo.png" height="60" width="60"> -->
 <img src="https://img.icons8.com/color/452/mongodb.png" height="60" width="60">
 
 <br>
