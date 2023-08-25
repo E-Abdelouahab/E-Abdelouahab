@@ -13,7 +13,7 @@ A 26Y/O 🌈  Full-Stack developer🎯 from Morocco. I'm passionate about Full-S
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 I’m currently learning NodeJs, ReactJs and React-Native
+- 🌱 I’m currently Full-Stack Developer NodeJs, ExpressJs, ReactJs and React-Native
 - 👯 I’m looking to collaborate on NodeJs projects and Basic Web Dev stuff
 - 📫 How to reach me: You may follow me on [Linkedin](https://www.linkedin.com/in/abdelouahab-elhassnaoui-ab4785118/) 
  
